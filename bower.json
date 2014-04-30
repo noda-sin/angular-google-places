@@ -1,0 +1,6 @@
+{
+  "name": "angular-google-places",
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}

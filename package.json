@@ -1,0 +1,14 @@
+{
+  "name": "angular-google-places",
+  "version": "0.0.1",
+  "description": "AngularJS Module for Google Places API",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OopsMouse/angular-google-places.git"
+  },
+  "keywords": [
+    "angularjs",
+    "googleplaces"
+  ],
+  "license": "MIT"
+}
